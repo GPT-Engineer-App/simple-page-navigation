@@ -1,0 +1,10 @@
+
+[paths]
+src = "src"
+dist = "out"
+
+[run]
+build = "npm run build"
+
+[gptengineer-app]
+project_id = "9b2e5932-5430-4f59-9ba9-2be9ba56afd9"
